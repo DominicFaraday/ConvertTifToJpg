@@ -18,3 +18,13 @@ C:\Users\faradayd\Desktop\ConvertTifToJpg\bin\Debug\ImageResizer.dll
 C:\Users\faradayd\Desktop\ConvertTifToJpg\bin\Debug\BitMiracle.LibTiff.NET.xml
 C:\Users\faradayd\Desktop\ConvertTifToJpg\bin\Debug\ImageResizer.xml
 C:\Users\faradayd\Desktop\ConvertTifToJpg\obj\Debug\ConvertTifToJpg.csprojResolveAssemblyReference.cache
+E:\Workspaces_Git\ConvertTifToJpg\bin\Debug\ConvertTifToJpg.exe.config
+E:\Workspaces_Git\ConvertTifToJpg\obj\Debug\ConvertTifToJpg.exe
+E:\Workspaces_Git\ConvertTifToJpg\obj\Debug\ConvertTifToJpg.pdb
+E:\Workspaces_Git\ConvertTifToJpg\bin\Debug\ConvertTifToJpg.exe
+E:\Workspaces_Git\ConvertTifToJpg\bin\Debug\ConvertTifToJpg.pdb
+E:\Workspaces_Git\ConvertTifToJpg\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\Workspaces_Git\ConvertTifToJpg\bin\Debug\ImageResizer.dll
+E:\Workspaces_Git\ConvertTifToJpg\bin\Debug\BitMiracle.LibTiff.NET.xml
+E:\Workspaces_Git\ConvertTifToJpg\bin\Debug\ImageResizer.xml
+E:\Workspaces_Git\ConvertTifToJpg\obj\Debug\ConvertTifToJpg.csprojResolveAssemblyReference.cache
